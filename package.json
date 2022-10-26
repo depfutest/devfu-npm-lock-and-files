@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "devfu-internals": "file:packages/devfu-internals",
-    "isarray": "^2.0.0"
+    "isarray": "^2.0.5"
   }
 }
